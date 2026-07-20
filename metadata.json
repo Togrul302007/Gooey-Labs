@@ -1,0 +1,6 @@
+{
+  "name": "Gooey Labs",
+  "description": "An interactive playground and educational laboratory for exploring the SVG gooey effect with real-time filter adjustment, physics blobs, interactive particle systems, and text morph animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
